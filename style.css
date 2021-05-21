@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://media-exp1.licdn.com/dms/image/C561BAQGpxRlo9gp3cQ/company-background_10000/0?e=2159024400&v=beta&t=TrelGvVGOofaPX-01588Ei8BJf0_8taYBiGFlk9zyME');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    height: 100vh;
+    padding: 50px 0;
+}
+
+.tarjeta{
+    background-color: rgb(255, 255, 255);
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.tarjeta img{
+    display: block;
+    margin: 0px auto;
+    border-radius: 50vh;
+}
+
+.tarjeta span{
+    color: rgb(56, 231, 173);
+}
+
+.tarjeta a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: rgb(56, 231, 173);
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.tarjeta h6{
+    color: rgb(53, 53, 53);
+}
